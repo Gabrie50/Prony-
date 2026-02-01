@@ -1,6 +1,6 @@
 
 # Base image 
-FROM quay.io/jupyter/base-notebook:2024-12-31
+FROM quay.io/jupyter/base-notebook:2026-01-26
 
 # Executar comandos como root
 USER root
